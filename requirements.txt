@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+httpx
+pymongo
+pydantic-core
+pydantic_settings
+openai_swarm
